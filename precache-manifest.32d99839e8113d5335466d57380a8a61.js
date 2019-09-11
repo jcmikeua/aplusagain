@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f0476a3ab745ee1b7578048698a280af",
+    "revision": "a047f8436e4ba144d12e7282fabdaf46",
     "url": "/aplusagain/index.html"
   },
   {
-    "revision": "550ab80172686fd2f5a9",
+    "revision": "773ede19c63602431fd3",
     "url": "/aplusagain/static/css/main.43d56a2a.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aplusagain/static/js/2.c5c88a1c.chunk.js"
   },
   {
-    "revision": "550ab80172686fd2f5a9",
-    "url": "/aplusagain/static/js/main.0b9e065f.chunk.js"
+    "revision": "773ede19c63602431fd3",
+    "url": "/aplusagain/static/js/main.af6d324b.chunk.js"
   },
   {
     "revision": "5475069d81c2438bdd99",
