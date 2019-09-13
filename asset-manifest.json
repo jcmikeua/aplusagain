@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/aplusagain/static/css/main.d39396d2.chunk.css",
+    "main.css": "/aplusagain/static/css/main.93ee5637.chunk.css",
     "main.js": "/aplusagain/static/js/main.e9385606.chunk.js",
     "main.js.map": "/aplusagain/static/js/main.e9385606.chunk.js.map",
     "runtime~main.js": "/aplusagain/static/js/runtime~main.35a8c9de.js",
@@ -8,9 +8,9 @@
     "static/js/2.54479858.chunk.js": "/aplusagain/static/js/2.54479858.chunk.js",
     "static/js/2.54479858.chunk.js.map": "/aplusagain/static/js/2.54479858.chunk.js.map",
     "index.html": "/aplusagain/index.html",
-    "precache-manifest.c29a028e2fac64abcf865d6a9ddb30b3.js": "/aplusagain/precache-manifest.c29a028e2fac64abcf865d6a9ddb30b3.js",
+    "precache-manifest.3e938a6d93484d475f83af164c92a086.js": "/aplusagain/precache-manifest.3e938a6d93484d475f83af164c92a086.js",
     "service-worker.js": "/aplusagain/service-worker.js",
-    "static/css/main.d39396d2.chunk.css.map": "/aplusagain/static/css/main.d39396d2.chunk.css.map",
+    "static/css/main.93ee5637.chunk.css.map": "/aplusagain/static/css/main.93ee5637.chunk.css.map",
     "static/media/headergraphic.png": "/aplusagain/static/media/headergraphic.4d68858f.png"
   }
 }
